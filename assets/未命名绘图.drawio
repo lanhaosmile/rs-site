@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T15:40:56.383Z" agent="5.0 (Windows)" etag="judDmh0v-BD7BJGYdVcO" version="14.7.0" type="github"><diagram id="49kw4BfdKDwVO2S9zf8H" name="第 1 页">3ZZNb6MwEIZ/DceNwAaaPSYk6R72s6w2am/e2AFrDUaOE0h//Y7B5kO00q5UVVW5ZObxjMczfkni4aRobhWp8i+SMuEhnzYe3ngIIT9G8GHItSOBv8QdyRSnlg0g5Y/MBVp65pSdJoFaSqF5NYUHWZbsoCeMKCXradhRimnVimRsBtIDEXO651TnHV2im4F/YjzLXeUg/titFMQF205OOaGyHiG89XCipNSdVTQJE2Z6bi5d3u6Z1f5gipX6XxLOv/Y/Lj/p7cP1flNTJB4ftuSD3eVCxNk2/P3bfntnT6yvbgy5LgRYgYfXfR8+OJScckatAyuViS+azKhh8Rt6O2kwF0q1d7NW9oIjE62V/MMSKaQCUsqS9dBN2pQ7ciFckIfwZo2WITZclnrEd+0DvM65ZmlFDqZODcWBEcGzElzBjuYUF6Y0hyteWVxwSkVbHdJ4mX1uw9qWTJXUjiFwftdDEA4ZtiU7TNieNc/eUtDfPbw1TBZMqyuEuITQysW+MNi3fj2oL7YoHwnPqYxYvWf9zoMkwLCq+A+FoJlCPBQLM0bKL2BmxkxWXx2FIqOFtyskjFdxmLxjIeGbRTSVUvSElKJXlBKeSekuDZfR29XIbrdOUDzXiN8+70EjU4WET33ZvIxCwB1+6tq10T8GvP0L</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-24T15:41:22.158Z" agent="5.0 (Windows)" etag="zodfJPEU5ESCnZ438LdZ" version="14.7.0" type="github">
+  <diagram id="49kw4BfdKDwVO2S9zf8H" name="第 1 页">
+    <mxGraphModel dx="2062" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uVWQvTdGZyYDwd2lzZEa-1" value="POWER" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" parent="1" vertex="1">
+          <mxGeometry x="140" y="300" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uVWQvTdGZyYDwd2lzZEa-2" value="&lt;div&gt;CAN&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" parent="1" vertex="1">
+          <mxGeometry x="137.5" y="350" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uVWQvTdGZyYDwd2lzZEa-3" value="RS485" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" parent="1" vertex="1">
+          <mxGeometry x="135" y="400" width="65" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
